@@ -47,7 +47,7 @@ env:
 
 jobs:
   rdp:
-    runs-on: windows-2022
+    runs-on: windows-2025
     timeout-minutes: 370
     steps:
       - name: 🔧 Resolve inputs (safe)
